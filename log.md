@@ -15,7 +15,7 @@
 
 **Today's Progress**: I've made a simple parser for RuuviTag sensor data to store in InfluxDB.
 
-**Thoughts** The Grafana graphs is now starting to look nice.
+**Thoughts** The Grafana graphs is now starting to look nice. Added calulation for Dewpoint and Absolute humidity
 
 **Link(s) to work**
 1. ADD LINK TO GRAPH
