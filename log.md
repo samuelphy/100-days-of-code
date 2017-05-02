@@ -38,3 +38,13 @@
 **Link(s) to work**
 1. [Python Data Structures on Coursera](https://www.coursera.org/learn/python-data)
 2. Pushed code examples to src
+
+
+### Day 4: May 2
+
+**Today's Progress**: Made small changes to Alla Varv (CakePHP). 
+
+**Thoughts** Nice to learn howto add, commit and push to github.
+
+**Link(s) to work**
+1. [Alla Varv at Github](https://github.com/samuelphy/allavarv)
