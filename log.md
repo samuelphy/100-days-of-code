@@ -42,9 +42,26 @@
 
 ### Day 4: May 2
 
-**Today's Progress**: Made small changes to Alla Varv (CakePHP). 
+**Today's Progress**: Made small changes to Alla Varv (CakePHP).
 
 **Thoughts** Nice to learn howto add, commit and push to github.
 
 **Link(s) to work**
 1. [Alla Varv at Github](https://github.com/samuelphy/allavarv)
+
+### Day 5: May 3
+
+**Today's Progress**: 
+
+**Thoughts**
+
+**Link(s) to work**
+
+### Day 6: May 4
+
+**Today's Progress**: Made an Acceleration parser for RuuviTag into InfluxDB
+
+**Thoughts** Needs to be updated more often than 1/second
+
+**Link(s) to work**
+1. Pushed code to src
