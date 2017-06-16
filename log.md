@@ -37,7 +37,7 @@
 
 **Link(s) to work**
 1. [Python Data Structures on Coursera](https://www.coursera.org/learn/python-data)
-2. Pushed code examples to src
+2. Pushed code examples to [src](https://github.com/samuelphy/100-days-of-code/tree/master/src)
 
 
 ### Day 4: May 2
@@ -51,11 +51,12 @@
 
 ### Day 5: May 3
 
-**Today's Progress**: 
+**Today's Progress**: Did exercise 5 for Python Data Structures course
 
 **Thoughts**
 
 **Link(s) to work**
+1. Pushed code examples to [src](https://github.com/samuelphy/100-days-of-code/tree/master/src/ch6ex.py)
 
 ### Day 6: May 4
 
@@ -64,4 +65,39 @@
 **Thoughts** Needs to be updated more often than 1/second
 
 **Link(s) to work**
-1. Pushed code to src
+1. Pushed code to [src](https://github.com/samuelphy/100-days-of-code/tree/master/src)
+
+### Day 7: May 5
+
+**Today's Progress**: Made a climate data parser to Influx based on the RuuviTagReactive
+
+**Thoughts** Not great implementation, samples to much data and through most of it away (not stored in database)
+
+**Link(s) to work**
+
+### Day 8: May 27
+
+**Today's Progress**: LUA, bash and python scripting to start video recording in case of home alarm
+
+**Thoughts** Domoticz will not execute bash script for some reason (works when executing in terminal)
+
+**Link(s) to work**
+1. Pushed code to [src](https://github.com/samuelphy/100-days-of-code/tree/master/src) (takePictures.py, take_pictures.sh)
+
+### Day 9: May 29
+
+**Today's Progress**: Sleep sort algorithm (anonymous)
+
+**Thoughts** Funny algorithm that adds sleep time to perform sort
+
+**Link(s) to work**
+1. Pushed code to [src](https://github.com/samuelphy/100-days-of-code/tree/master/src) (sleepsort.bash)
+
+### Day 10: June 15
+
+**Today's Progress**: Calculating work time
+
+**Thoughts** EndWorking - StartWorking - LunchTime = HH,MM*100/60
+
+**Link(s) to work**
+1. Pushed code to [src](https://github.com/samuelphy/100-days-of-code/tree/master/src) (workTime.py)
