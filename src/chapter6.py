@@ -1,5 +1,6 @@
 # Chapter 6 Python Datatypes
 # Using python3 instead of 2.7
+# Strings
 
 fruit = 'banana'
 for letter in fruit:

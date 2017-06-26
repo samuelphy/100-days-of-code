@@ -27,7 +27,7 @@
 **Thoughts** CakePHP is very nice to work with once you get the hang of it.
 
 **Link(s) to work**
-1. ADD SOURCE TO GITHUB
+1. [Alla Varv at Github](https://github.com/samuelphy/allavarv)
 
 ### Day 3: April 28
 
@@ -75,7 +75,16 @@
 
 **Link(s) to work**
 
-### Day 8: May 27
+### Day 8: May 7
+
+**Today's Progress**: Doing examples from "Chapter 6 - Strings" of "Python for Informatics: Exploring Information"
+
+**Thoughts**
+
+**Link(s) to work**
+1. Pushed code to [src](https://github.com/samuelphy/100-days-of-code/tree/master/src) (chapter6.py)
+
+### Day 9: May 27
 
 **Today's Progress**: LUA, bash and python scripting to start video recording in case of home alarm
 
@@ -84,7 +93,7 @@
 **Link(s) to work**
 1. Pushed code to [src](https://github.com/samuelphy/100-days-of-code/tree/master/src) (takePictures.py, take_pictures.sh)
 
-### Day 9: May 29
+### Day 10: May 29
 
 **Today's Progress**: Sleep sort algorithm (anonymous)
 
@@ -93,7 +102,7 @@
 **Link(s) to work**
 1. Pushed code to [src](https://github.com/samuelphy/100-days-of-code/tree/master/src) (sleepsort.bash)
 
-### Day 10: June 15
+### Day 11: June 15
 
 **Today's Progress**: Calculating work time
 
@@ -101,3 +110,49 @@
 
 **Link(s) to work**
 1. Pushed code to [src](https://github.com/samuelphy/100-days-of-code/tree/master/src) (workTime.py)
+
+### Day 12: June 19
+
+**Today's Progress**: Doing examples from "Chapter 7 - Files" of "Python for Informatics: Exploring Information"
+
+**Thoughts**
+
+**Link(s) to work**
+1. Pushed code to [src](https://github.com/samuelphy/100-days-of-code/tree/master/src) (chapter7.py)
+
+### Day 13: June 21
+
+**Today's Progress**: Doing examples from "Chapter 8 - Lists" of "Python for Informatics: Exploring Information"
+
+**Thoughts**
+
+**Link(s) to work**
+1. Pushed code to [src](https://github.com/samuelphy/100-days-of-code/tree/master/src) (chapter8.py)
+
+### Day 14: June 23
+
+**Today's Progress**: Doing examples from "Chapter 9 - Dictionaries" of "Python for Informatics: Exploring Information"
+
+**Thoughts**
+
+**Link(s) to work**
+1. Pushed code to [src](https://github.com/samuelphy/100-days-of-code/tree/master/src) (chapter9.py)
+
+### Day 15: June 24
+
+**Today's Progress**: Doing examples from "Chapter 10 - Tuples" of "Python for Informatics: Exploring Information"
+
+**Thoughts**
+
+**Link(s) to work**
+1. Pushed code to [src](https://github.com/samuelphy/100-days-of-code/tree/master/src) (chapter10.py)
+
+
+### Day 16: June 26
+
+**Today's Progress**: Writing Python code to control LacyBone BLE switch
+
+**Thoughts** Still some work to integrate into HA
+
+**Link(s) to work**
+1. Pushed code to [src](https://github.com/samuelphy/100-days-of-code/tree/master/src) (lacybone_off.py)
